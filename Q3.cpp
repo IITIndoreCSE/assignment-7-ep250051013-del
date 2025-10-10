@@ -25,7 +25,7 @@ void modifyArray(int arr[], int size) {
 int main() {
     int size;
    
-    cout << "Enter the size of the array: ";
+    cout << "Enter the number of elements: ";
     cin >> size;
    
     if (size <= 0) {
